@@ -21,7 +21,3 @@ These resources are instrumental in offering both foundational knowledge and adv
 ## Contributions
 
 Contributions to Synthetic are welcomed. This project is an opportunity for both experienced developers and beginners to learn, collaborate, and contribute to the development of a new programming language.
-
----
-
-Synthetic is more than just a programming language; it's a tool for learning, exploration, and growth in the field of software development.
