@@ -2,6 +2,7 @@ package lexer
 
 import (
 	"synthetic/token"
+    "synthetic/lexer"
 	"testing"
 )
 
